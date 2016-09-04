@@ -50,5 +50,3 @@ func assertScore(t *testing.T, expected, actual int) {
 		t.Errorf("Expected %d but was %d", expected, actual)
 	}
 }
-
-
